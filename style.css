@@ -50,5 +50,7 @@ footer{
     position: absolute;
     margin: 0.5rem;
     padding: 0.5rem;
-
+    text-align: left;
+    border-radius: 0.6rem;
+    font-size: 1vw;
 }
