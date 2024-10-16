@@ -54,3 +54,22 @@ footer{
     border-radius: 0.6rem;
     font-size: 1vw;
 }
+
+l.conteudo-cartao p{
+    margin-top: 4rem;
+    padding: 2rem;
+    font-size: 1.4vw;
+}
+
+.pergunta-cartao{
+    font-weight: 500;
+}
+
+.resposta-cartao{
+    font-weight: 700;
+    color: var(--destasque);
+}
+
+.cartao:hover .conteudo-cartao{
+    transform: rotateY(180deg);
+}
