@@ -2,7 +2,7 @@
 --fundo: #8dd1ff;
 --cartao-frente: #ac88ee;
 --cartao-verso: #cf70db;
---destasque: #9501f8;
+--destasque: #9001b4;
 --preto: #000000;
 --branco: #ffffff;
 }
@@ -50,5 +50,5 @@ footer{
     position: absolute;
     margin: 0.5rem;
     padding: 0.5rem;
-    
+
 }
