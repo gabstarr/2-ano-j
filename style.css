@@ -43,3 +43,8 @@ footer{
     text-align: center;
     color: var(--branco);
 }
+
+.conteudo-cartao h3{
+    color: var(--destasque);
+    border: 1px solid var(--destasque);
+}
