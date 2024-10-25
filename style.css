@@ -79,4 +79,7 @@ l.conteudo-cartao p{
 
 .pergunta-cartao, .resposta-cartao{
     backface-visibility: hidden;
+    position: absolute;
+    height: 100%;
+    width: 100%;
 }
