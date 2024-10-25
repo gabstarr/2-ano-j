@@ -41,7 +41,7 @@
 
     .cartao{
         background-color: var(--cartao-frente);
-        padding: 40%;
+        padding: 40px;
         border: 1px solid var(--destasque);
         box-shadow: 5px 5px 20px 5px var(--preto);
     }
