@@ -71,6 +71,7 @@ l.conteudo-cartao p{
 .resposta-cartao{
     font-weight: 700;
     color: var(--destasque);
+    transform: rotateY(180deg);
 }
 
 .cartao:hover .conteudo-cartao{
