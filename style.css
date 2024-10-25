@@ -72,6 +72,8 @@ l.conteudo-cartao p{
     font-weight: 700;
     color: var(--destasque);
     transform: rotateY(180deg);
+    background-color: var(--cartao-verso);
+    border: 2px solid var(--destasque);
 }
 
 .cartao:hover .conteudo-cartao{
