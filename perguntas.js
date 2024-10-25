@@ -1,47 +1,47 @@
 criaCartao(
     "matematica",
-    "como se calcula a soma dos termos de um P.A?",
-    "utiliza-se a formula; ((a1+an)*r)/2"
+    "Como se calcula a soma dos termos de um P.A?",
+    "Utiliza-se a formula; ((a1+an)*r)/2"
 )
 
 criaCartao(
  "historia",
- "quando iniciou-se a segunda guerra mundial?",
+ "Quando iniciou-se a segunda guerra mundial?",
  "1 de setembro de 1939"
 )
 
 criaCartao(
     "geografia",
-    "quantos paises tem no mundo?",
+    "Quantos paises tem no mundo?",
     "193"
 )
 
 criaCartao(
     "biologia",
-    "qual o maior animal do mundo?",
-    "baleia-azul"
+    "Qual o maior animal do mundo?",
+    "Baleia-azul"
 )
 
 criaCartao(
     "quimica",
-    "qual o elemento mais perigoso?",
-    "chumbo"
+    "Qual o elemento mais perigoso?",
+    "Chumbo"
 )
 
 criaCartao(
     "lingua portuguesa",
-    "qual a obra do escritor machado de assis?",
-    "dom casmurro"
+    "Qual a obra do escritor machado de assis?",
+    "Dom casmurro"
 )
 
 criaCartao(
     "ingles",
-    "qual o verbo correto no presente para 'they'?",
-    "are"
+    "Qual o verbo correto no presente para 'they'?",
+    "Are"
 )
 
 criaCartao(
     "artes",
-    "qual o artista mais famoso da epoca renascentista?",
-    "leonardo da vinci"
+    "Qual o artista mais famoso da epoca renascentista?",
+    "Leonardo da Vinci"
 )
