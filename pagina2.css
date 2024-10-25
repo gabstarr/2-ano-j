@@ -34,7 +34,7 @@
     }
 
     #container{
-        content: display;
+        display: grid;
         gap: 3rem;
         padding: 4rem;
     }
