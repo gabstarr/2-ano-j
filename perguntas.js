@@ -48,48 +48,48 @@ criaCartao(
 
 criaCartao(
     "matematica",
-    "Qual o teorema mais famoso do mundo?"
+    "Qual o teorema mais famoso do mundo?",
     "Teorema de Pitagoras"
 )
 
 criaCartao(
     "historia",
-    "Em qual ano o Brasil foi descoberto?"
+    "Em qual ano o Brasil foi descoberto?",
     "Foi descoberto em 1500"
 )
 
 criaCartao(
     "geografia",
-    "Qual o bioma mais diversificado no Brasil?"
+    "Qual o bioma mais diversificado no Brasil?",
     "Floresta Amazonica"
 )
 
 criaCartao(
     "biologia",
-    "Qual a maior celula do corpo humano?"
+    "Qual a maior celula do corpo humano?",
     "ovulo"
 )
 
 criaCartao(
     "quimica",
-    "Qual o elemento quimico mais comum?"
+    "Qual o elemento quimico mais comum?",
     "hidrogenio"
 )
 
 criaCartao(
     "lingua portuguesa",
-    "Qual a obra mais famosa de Fernando Sabino?"
+    "Qual a obra mais famosa de Fernando Sabino?",
     "O Grande Mentecapto"
 )
 
 criaCartao(
     "ingles",
-    "Como é cachorro em ingles?"
+    "Como é cachorro em ingles?",
     "Dog"
 )
 
 criaCartao(
     "artes",
-    "Qual a obra de arte mais cara do mundo?"
+    "Qual a obra de arte mais cara do mundo?",
     "Salvator Mundi de Leonardo da Vinci"
 )
