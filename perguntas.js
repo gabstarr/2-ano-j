@@ -93,3 +93,33 @@ criaCartao(
     "Qual a obra de arte mais cara do mundo?",
     "Salvator Mundi de Leonardo da Vinci"
 )
+
+criaCartao(
+    "biologia",
+    "Qual o menor animal do mundo?",
+    "Plancton"
+)
+
+criaCartao(
+    "historia",
+    "Qual foi o maior colonizador na historia?",
+    "Inglaterra"
+)
+
+criaCartao(
+    "geografia",
+    "Qual os biomas que existem na regiao sul do Brasi",
+    "Mata Atlantica e Pampas"
+)
+
+criaCartao(
+    "artes",
+    "Quais as cores primarias?",
+    "Vermelho, azul e amarelo"
+)
+ 
+criaCartao(
+    "historia",
+    "Quem descobriu o Brasil?",
+    "Pedro Alvares Cabral"
+)
